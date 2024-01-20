@@ -8,12 +8,6 @@
 6. [Links](#links)
 7. [More](#more)
 
-## Tutorial
-
-This repository contains code for an e-commerce product scraping site using Next.js and Bright Data's webunlocker. It notifies users of price drops and stock availability through automated cron jobs.
-
-[YouTube Tutorial](https://youtu.be/lh9XVGv6BHs?si=BquPyhI_o2f8jHqV)
-
 ## Introduction
 
 Built with Next.js, Bright Data, Cheerio, Nodemailer, MongoDB, Headless UI, and Tailwind CSS.
